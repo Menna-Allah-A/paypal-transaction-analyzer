@@ -42,7 +42,7 @@ Download detailed Excel reports with multiple sheets:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/paypal-transaction-analyzer.git
+git clone https://github.com/Menna-Allah-A/paypal-transaction-analyzer.git
 cd paypal-transaction-analyzer
 ```
 
